@@ -74,6 +74,7 @@ Três fontes: ambiente quente + duas pontuais (cobre e creme) + *rim light* para
 
 ```js
 renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+```
 
 ---
 
