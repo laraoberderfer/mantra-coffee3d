@@ -75,6 +75,9 @@ Três fontes: ambiente quente + duas pontuais (cobre e creme) + *rim light* para
 ```js
 renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
 
+---
+
+## 📋 Autoria
 Professora Lara Popov Zambiasi Bazzi Oberderderfer
 IFSC Câmpus Chapecó
 com auxilio de AdaptaOne
